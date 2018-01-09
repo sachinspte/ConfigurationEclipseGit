@@ -10,5 +10,6 @@ public class GitEclipseConfig
      System.out.println("sum of a & b="+c);
      System.out.println("value of a"+a);
      System.out.println("value of b"+b);
+     System.out.println("Import workspace Test");
 	}
 }
