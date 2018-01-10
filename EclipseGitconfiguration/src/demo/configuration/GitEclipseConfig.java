@@ -12,5 +12,6 @@ public class GitEclipseConfig
      System.out.println("value of b"+b);
      System.out.println("Import workspace Test");
      System.out.println("Multi of a @ b==>"+a*b);
+     System.out.println("Minus of b-a==>"+(b-a));
 	}
 }
